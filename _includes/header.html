@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a href="{{ site.baseurl | prepend: site.url }}">
+    <a href="{{ https://ace-sip.com }}">
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
         <!--<strong>{{ site.name }}</strong>-->
@@ -26,7 +26,7 @@
         <!-- Pages -->
         {% for page in site.pages %}
           {% if page.title %}
-            <a class="page-link" href="{{ https://ace-sip.com }}">{{ page.title }}</a>
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
 
