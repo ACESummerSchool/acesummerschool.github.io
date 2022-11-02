@@ -12,3 +12,9 @@ The summer school is a **free** event. No registration fee will be charged.
 
 **This year, we will offer a limited number of travel stipends to support non-Melbourne based students who want to participate physically. Please refer to the [travel stipend info page](https://acesummerschool.github.io/stipend/) for more details.**
 
+<table style="width:100%; border:none">
+  <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/monash.png" height="100"></td>
+    <td style="text-align:center;border:none"><img src="/assets/img/ace-sip.png" height="100"></td>
+  </tr>
+</table>
