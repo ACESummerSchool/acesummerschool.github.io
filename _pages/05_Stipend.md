@@ -19,3 +19,9 @@ To apply, students should lodge their application by using the [application form
 <span style="color:red">**Warning: Submitting the application for the travel stipend does not secure your seat in the physical summer school event. 
 You still need to register for attendance [here](https://acesummerschool.github.io/registration/) ASAP.**</span>
 
+<table style="width:100%; border:none">
+  <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/monash.png" height="100"></td>
+    <td style="text-align:center;border:none"><img src="/assets/img/ace-sip.png" height="100"></td>
+  </tr>
+</table>
