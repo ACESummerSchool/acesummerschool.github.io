@@ -120,11 +120,12 @@
 }
 
 .header-background .text {
-  margin-top: -17em;
+  margin-top: -23em;
   text-align: center;
+  font-size: 0.875em;
   margin-left: 2em;
   margin-right: 2em;
-  padding-bottom: 4em;
+  padding-bottom: 9em;
   color: White;
   font-weight: bold;
 }
@@ -132,8 +133,15 @@
 .header-background .text h1 {
   font-weight: bold;
   background: rgba(0, 0, 0, 0.5);
+  margin:0px;
 }
 
+
+.header-background .text h2 {
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.5);
+  margin:0px;
+}
 
 .header-background .text h2 {
   font-weight: bold;
