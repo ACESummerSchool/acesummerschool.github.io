@@ -7,7 +7,6 @@ description: > # this means to ignore newlines until "url:"
   Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) Summer School
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Contact us: <a href="mailto:contact@ace-sip.org">contact@ace-sip.org</a>
 
 url: https://acesummerschool.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
