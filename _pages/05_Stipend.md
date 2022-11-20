@@ -14,7 +14,7 @@ The stipend will cover the return ticket to Melbourne (from the student's base c
 If you are interested in the stipend, please submit your application by **20 Nov 2022 (23:59 AEDT).** 
 The notification of the stipend application outcome will be sent by the end of Nov 2022.
 
-To apply, students should lodge their application by using the [application form](https://docs.google.com/forms/d/e/1FAIpQLScsVIYLPbneVMJo-kXPnX3cGEmF218muw9xVlzFbF0FEjidTw/viewform). 
+**The stipend application has closed. Outcomes will be announced at the end of November.**
 
 <span style="color:red">**Warning: Submitting the application for the travel stipend does not secure your seat in the physical summer school event. 
 You still need to register for attendance [here](https://acesummerschool.github.io/registration/) ASAP.**</span>
