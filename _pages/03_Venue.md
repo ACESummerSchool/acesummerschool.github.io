@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Venue/
+permalink: /venue/
 title: Venue
 ---
 
