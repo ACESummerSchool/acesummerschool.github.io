@@ -82,6 +82,8 @@ title: Speakers
   </tr>
 </table>
 
+_The order of speakers is sorted according to their last name alphabetically._
+
 More speakers will be announced when the summer school is approaching! Please stay tuned with us!
 
 <table style="width:100%; border:none">
