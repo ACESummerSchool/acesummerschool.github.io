@@ -12,6 +12,10 @@ title: Speakers
     <td style="text-align:left;border:none"><b>Shawkat Ali</b><br/>Professor, Department of Science, University of Fiji, Fiji</td>
   </tr>
   <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/speaker_allen_au.png" height="175"></td>
+    <td style="text-align:left;border:none"><b>Allen Man Ho Au</b><br/>Professor, Department of Computing, Hong Kong Polytechnic University, Hong Kong</td>
+  </tr>
+  <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_naipeng_dong.png" height="175"></td>
     <td style="text-align:left;border:none"><b>Naipeng Dong</b><br/>Lecturer, School of Information Technology and Electrical Engineering, University of Queensland, Australia</td>
   </tr>

@@ -19,7 +19,7 @@ The map for Clayton Campus can be found [here](https://www.monash.edu/about/our-
 
 **Travel By Car:**
 
-Visitors can park their cars at North 1 Carpark. Parking fee can be found [here](https://www.monash.edu/about/our-locations/transport-parking/parking/visitors).
+Visitors can park their cars at North 1 (N1), SE1, or SE3 Carpark. Parking fee can be found [here](https://www.monash.edu/about/our-locations/transport-parking/parking/visitors).
 
 **Travel by Public Transportation:**
 
