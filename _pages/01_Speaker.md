@@ -9,7 +9,7 @@ title: Speakers
 <table style="width:100%; border:none">
   <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_shawkat_ali.png" height="175"></td>
-    <td style="text-align:left;border:none"><b>Shawkat Ali</b><br/>Professor, Department of Science, University of Fiji, Fiji</td>
+    <td style="text-align:left;border:none"><b>A B M Shawkat Ali</b><br/>Professor, Department of Computer Science and Mathematics, University of Fiji, Fiji</td>
   </tr>
   <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_allen_au.png" height="175"></td>
