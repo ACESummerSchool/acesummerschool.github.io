@@ -21,7 +21,7 @@ title: Speakers
   </tr>
   <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_muhammed_esgin.png" height="175"></td>
-    <td style="text-align:left;border:none"><b>Muhammed Esgin</b><br/>Research Fellow, Department of Software Systems and Cybersecurity, Monash University, Australia</td>
+    <td style="text-align:left;border:none"><b>Muhammed Esgin</b><br/>Lecturer, Department of Software Systems and Cybersecurity, Monash University, Australia</td>
   </tr>
   <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_vincent_gramoli.png" height="175"></td>
