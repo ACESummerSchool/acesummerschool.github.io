@@ -26,7 +26,7 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">10:50 AM - 11:20 AM</td>
-        <td>TBA<br><strong>Speaker: </strong>Tom Wainwright</td>
+        <td>Exploring How Blockchain can Support Environmental Sustainability<br><strong>Speaker: </strong>Tom Wainwright</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">11:20 AM - 11:50 AM</td>
