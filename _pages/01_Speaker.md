@@ -77,12 +77,33 @@ title: Speakers
     <td style="text-align:left;border:none"><b>Warwick Powell</b><br/>Chairman, Smart Trade Networks, Australia</td>
   </tr>
   <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/speaker_tom_wainwright.png" height="175"></td>
+    <td style="text-align:left;border:none"><b>Tom Wainwright</b><br/>System Lead, Sustainable Corporates Climateworks Centre, Australia</td>
+  </tr>
+  <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_karin_wan.png" height="175"></td>
     <td style="text-align:left;border:none"><b>Karin Wan</b><br/>Co-founder and Executive Director, Guru Online, Hong Kong</td>
   </tr>
   <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_vivian_wang.png" height="175"></td>
     <td style="text-align:left;border:none"><b>Vivian Wang</b><br/>Chief Operating Officer, Chaining Innovation, Australia</td>
+  </tr>
+</table>
+
+### Student Speakers
+
+<table style="width:100%; border:none">
+  <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/speaker_zoey_li.png" height="175"></td>
+    <td style="text-align:left;border:none"><b>Zoey Li</b><br/>Monash University, Australia</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/speaker_xianrui_qin.png" height="175"></td>
+    <td style="text-align:left;border:none"><b>Xianrui Qin</b><br/>University of Hong Kong, Hong Kong</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/speaker_zhiyuan_sun.png" height="175"></td>
+    <td style="text-align:left;border:none"><b>Zhiyuan Sun</b><br/>Hong Kong Polytechnic University, Hong Kong</td>
   </tr>
 </table>
 

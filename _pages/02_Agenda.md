@@ -138,10 +138,20 @@ nav: false
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">3:30 PM - 4:00 PM</td>
-        <td><br><strong>Speaker: </strong>Allen Au</td>
+        <td>Threshold Signatures and Their Applications in Blockchain<br><strong>Speaker: </strong>Allen Au</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">4:00 PM - 4:05 PM</td>
         <td><strong>Closing</strong><br>by Joseph Liu</td>
     </tr>
+</table>
+
+<table style="width:100%; border:none">
+  <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/monash.png" height="100"></td>
+    <td style="text-align:center;vertical-align:center;border:none"><img src="/assets/img/ace-sip.png" height="100"></td>
+  </tr>
+  <tr>
+    <td style="text-align:left;border:none">Contact us: <a href="mailto:contact@ace-sip.org">contact@ace-sip.org</a></td>
+  </tr>
 </table>
