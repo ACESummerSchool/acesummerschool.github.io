@@ -102,14 +102,16 @@ title: Speakers
     <td style="text-align:left;border:none"><b>Xianrui Qin</b><br/>University of Hong Kong, Hong Kong</td>
   </tr>
   <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/speaker_zhimei_sui.png" height="175"></td>
+    <td style="text-align:left;border:none"><b>Zhimei Sui</b><br/>Monash University, Australia</td>
+  </tr>
+  <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_zhiyuan_sun.png" height="175"></td>
     <td style="text-align:left;border:none"><b>Zhiyuan Sun</b><br/>Hong Kong Polytechnic University, Hong Kong</td>
   </tr>
 </table>
 
 _The order of speakers is sorted according to their last name alphabetically._
-
-More speakers will be announced when the summer school is approaching! Please stay tuned with us!
 
 <table style="width:100%; border:none">
   <tr>

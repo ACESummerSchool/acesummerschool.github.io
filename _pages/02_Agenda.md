@@ -26,7 +26,7 @@ nav: false
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">10:50 AM - 11:20 AM</td>
-        <td><br><strong>Speaker: </strong>Tom Wainwright</td>
+        <td>TBA<br><strong>Speaker: </strong>Tom Wainwright</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">11:20 AM - 11:50 AM</td>
@@ -58,7 +58,7 @@ nav: false
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">2:30 PM - 3:00 PM</td>
-        <td><br><strong>Speaker: </strong>Cindy He</td>
+        <td>TBA<br><strong>Speaker: </strong>Cindy He</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">3:00 PM - 3:30 PM</td>
@@ -66,11 +66,11 @@ nav: false
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">3:30 PM - 4:00 PM</td>
-        <td><br><strong>Speaker: </strong>Vincent Gramoli</td>
+        <td>TBA<br><strong>Speaker: </strong>Vincent Gramoli</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">4:00 PM - 4:30 PM</td>
-        <td><br><strong>Speaker: </strong>Katrina Donaghy</td>
+        <td>TBA<br><strong>Speaker: </strong>Katrina Donaghy</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">4:30 PM - 5:00 PM</td>
