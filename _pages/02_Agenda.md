@@ -2,7 +2,7 @@
 layout: page
 permalink: /agenda/
 title: Agenda
-nav: false
+nav: true
 ---
 <table>
     <tr>
@@ -38,7 +38,7 @@ nav: false
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">12:20 PM - 12:30 PM</td>
-        <td>Hackathon Award Ceremony<br>by Jiangshan Yu</td>
+        <td><strong>Hackathon Award Ceremony</strong><br>by Jiangshan Yu</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">12:30 PM - 1:30 PM</td>
