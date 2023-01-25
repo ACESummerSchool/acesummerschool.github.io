@@ -6,23 +6,24 @@ nav: true
 ---
 <table>
     <tr>
-        <th colspan="2" style="text-align: center;"><strong class="h3">Thu, 2 Feb 2023</strong></th>
+        <th colspan="3" style="text-align: center;"><strong class="h3">Thu, 2 Feb 2023</strong></th>
     </tr>
     <tr style="text-align: center;">
         <td><strong class="h4">Time (AEDT/GMT+11)</strong></td>
-        <td><strong class="h4">Event</strong></td>
+        <td colspan="2" style="vertical-align: middle"><strong class="h4">Event</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td>9:00 AM - 10:00 AM</td>
-        <td><strong>Registration Open</strong></td>
+        <td colspan="2" style="vertical-align: middle"><strong>Registration Open</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">10:00 AM - 10:20 AM</td>
-        <td><strong>Opening</strong><br>by Joseph Liu and Amin Sakzad</td>
+        <td colspan="2"><strong>Opening</strong><br>by Joseph Liu and Amin Sakzad</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">10:20 AM - 10:50 AM</td>
-        <td>The Future of Talent in blockchain and Emerging Tech<br><strong>Speaker: </strong>Karen Cohen</td>
+        <td width="60%">The Future of Talent in blockchain and Emerging Tech<br><strong>Speaker: </strong>Karen Cohen</td>
+        <td rowspan="4" style="text-align:center;vertical-align:middle;color:blue;"><strong class="h4">Session Chair:<br>Amin Sakzad</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">10:50 AM - 11:20 AM</td>
@@ -34,19 +35,20 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">11:50 AM - 12:20 PM</td>
-        <td>Quantum-Safe Blockchain: State of Today and Challenges for Tomorrow<br><strong>Speaker: </strong>Muhammed Esgin</td>
+        <td width="50%">Quantum-Safe Blockchain: State of Today and Challenges for Tomorrow<br><strong>Speaker: </strong>Muhammed Esgin</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">12:20 PM - 12:30 PM</td>
-        <td><strong>Hackathon Award Ceremony</strong><br>by Jiangshan Yu</td>
+        <td colspan="2"><strong>Hackathon Award Ceremony</strong><br>by Jiangshan Yu</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">12:30 PM - 1:30 PM</td>
-        <td><strong>Lunch</strong></td>
+        <td colspan="2"><strong>Lunch</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">1:30 PM - 1:45 PM</td>
         <td>Payment Channel Network for Scriptless Blockchain<br><strong>Student Speaker: </strong>Zhimei Sui</td>
+        <td rowspan="4" style="text-align:center;vertical-align: middle;color:blue"><strong class="h4">Session Chair:<br>Jiangshan Yu</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">1:45 PM - 2:00 PM</td>
@@ -62,11 +64,12 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">3:00 PM - 3:30 PM</td>
-        <td><strong>Tea Break</strong></td>
+        <td colspan="2"><strong>Tea Break</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">3:30 PM - 4:00 PM</td>
         <td>Beyond Marketing: What is real TPS?<br><strong>Speaker: </strong>Vincent Gramoli</td>
+        <td rowspan="4" style="text-align:center;vertical-align: middle;color:blue"><strong class="h4">Session Chair:<br>Rafael Dowsley</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">4:00 PM - 4:30 PM</td>
@@ -82,15 +85,16 @@ nav: true
     </tr>
 
     <tr>
-        <th colspan="2" style="text-align: center;"><strong class="h3">Fri, 3 Feb 2023</strong></th>
+        <th colspan="3" style="text-align: center;"><strong class="h3">Fri, 3 Feb 2023</strong></th>
     </tr>
     <tr style="text-align: center;">
         <td><strong class="h4">Time (AEDT/GMT+11)</strong></td>
-        <td><strong class="h4">Event</strong></td>
+        <td colspan="2" style="vertical-align: middle"><strong class="h4">Event</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">9:30 AM - 10:00 AM</td>
         <td>Blockchain Layer-2 Scaling Solutions<br><strong>Speaker: </strong>Sushmita Ruj</td>
+        <td rowspan="3" style="text-align:center;vertical-align: middle;color:blue"><strong class="h4">Session Chair:<br>Zhimei Sui</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">10:00 AM - 10:30 AM</td>
@@ -102,11 +106,12 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">11:00 PM - 11:30 PM</td>
-        <td><strong>Tea Break</strong></td>
+        <td colspan="2"><strong>Tea Break</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">11:30 AM - 12:00 PM</td>
         <td>The Blockchain Opportunities in The South Pacific- Our Views!<br><strong>Speaker: </strong>Shawkat Ali</td>
+        <td rowspan="3" style="text-align:center;vertical-align: middle;color:blue"><strong class="h4">Session Chair:<br>Joseph Liu</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">12:00 PM - 12:30 PM</td>
@@ -118,11 +123,12 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">12:45 PM - 1:45 PM</td>
-        <td><strong>Lunch</strong></td>
+        <td colspan="2"><strong>Lunch</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">1:45 PM - 2:00 PM</td>
         <td>Security Analysis of Algorand Smart Contract<br><strong>Student Speaker: </strong>Zhiyuan Sun</td>
+        <td rowspan="5" style="text-align:center;vertical-align: middle;color:blue"><strong class="h4">Session Chair:<br>Peter Ince</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">2:00 PM - 2:30 PM</td>
@@ -142,7 +148,7 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">4:00 PM - 4:05 PM</td>
-        <td><strong>Closing</strong><br>by Joseph Liu</td>
+        <td colspan="2"><strong>Closing</strong><br>by Joseph Liu</td>
     </tr>
 </table>
 
