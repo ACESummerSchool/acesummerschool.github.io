@@ -60,7 +60,7 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">2:30 PM - 3:00 PM</td>
-        <td>TBA<br><strong>Speaker: </strong>Cindy He</td>
+        <td>The Future of Banking v Blockchain Hype: What are the Real Use Cases?<br><strong>Speaker: </strong>Cindy He</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">3:00 PM - 3:30 PM</td>
