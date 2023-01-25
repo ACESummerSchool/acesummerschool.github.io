@@ -66,7 +66,7 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">3:30 PM - 4:00 PM</td>
-        <td>TBA<br><strong>Speaker: </strong>Vincent Gramoli</td>
+        <td>Beyond Marketing: What is real TPS?<br><strong>Speaker: </strong>Vincent Gramoli</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">4:00 PM - 4:30 PM</td>
