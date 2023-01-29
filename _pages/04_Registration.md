@@ -6,7 +6,7 @@ title: Registration
 
 Registration is opened now. Please fill the registration form [here](https://docs.google.com/forms/d/e/1FAIpQLSebXDTnNW0-U0-m8mkboRMWV1nBelzp54maBGmoiVkOMXWg2Q/viewform).
 
-There is no fixed deadline for registration. However, **please register on or before 29th January 2023 (23:59 AEDT/GMT+11)** since we only have limited quotas for physical attendance.
+**The in-person registration has closed. Registration for online participation is still open, until 31st January 2023 (23:59 AEDT/GMT+11).**
 
 The summer school is a **free** event. No registration fee will be charged.
 

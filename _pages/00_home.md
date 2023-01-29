@@ -14,7 +14,7 @@ It will be a hybrid event and free to all students around the world to attend.
 
 <span style="color:red">**The complete agenda of our summer school is announced! Please refer to the [Agenda](https://acesummerschool.github.io/agenda/) page for more details.**</span>
 
-<span style="color:red">**The deadline for in-person attendance registration is on the 29th January 2023 (23:59 AEDT/GMT+11). After the deadline, we can no longer accept in-person attendance registration, but online attendance is still accepted.**</span>
+<span style="color:red">**The in-person registration has closed. Registration for online participation is still open, until 31st January 2023 (23:59 AEDT/GMT+11).**</span>
 
 <table style="width:100%; border:none">
   <tr>
