@@ -73,7 +73,7 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">4:00 PM - 4:30 PM</td>
-        <td>TBA<br><strong>Speaker: </strong>Katrina Donaghy</td>
+        <td>Blockchain: Drip, Drip, Hooray for Water Savings Credit Marketplaces<br><strong>Speaker: </strong>Katrina Donaghy</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">4:30 PM - 5:00 PM</td>
