@@ -47,7 +47,7 @@ nav: true
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">1:30 PM - 1:45 PM</td>
-        <td>Payment Channel Network for Scriptless Blockchain<br><strong>Student Speaker: </strong>Zhimei Sui</td>
+        <td>AuxChannel: Enabling Efficient Bi-Directional Channel for Scriptless Blockchains<br><strong>Student Speaker: </strong>Zhimei Sui</td>
         <td rowspan="4" style="text-align:center;vertical-align: middle;color:blue"><strong class="h4">Session Chair:<br>Jiangshan Yu</strong></td>
     </tr>
     <tr style="text-align: center;">
