@@ -9,7 +9,7 @@ Amin Sakzad
 
 Xingliang Yuan
 
-#### **Program Co-Chair:**
+#### **Program Co-Chairs**
 Joseph Liu
 
 Jiangshan Yu
